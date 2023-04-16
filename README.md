@@ -1,3 +1,34 @@
+# grafana-volkovlabs-image-panel
+
+# 🚀 Base64 Image/Video/Audio/PDF Panel for @grafana 🚀
+
+
+https://github.com/coding-to-music/grafana-volkovlabs-image-panel
+
+From / By https://github.com/VolkovLabs/volkovlabs-image-panel
+
+
+## Environment variables:
+
+```java
+```
+
+## user interfaces:
+
+- Grafana http://localhost:3000
+
+## GitHub
+
+```java
+git init
+git add .
+git remote remove origin
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:coding-to-music/grafana-volkovlabs-image-panel.git
+git push -u origin main
+```
+
 # Base64 Image/Video/Audio/PDF panel for Grafana
 
 ![Image Panel](https://raw.githubusercontent.com/volkovlabs/volkovlabs-image-panel/main/src/img/image-panel.png)

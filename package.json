@@ -28,6 +28,8 @@
     "stop": "docker-compose down",
     "test": "grafana-toolkit plugin:test --coverage",
     "upgrade": "yarn upgrade --latest",
+    "deploy": "git add . && git commit -m Build && git push",
+    "clean": "bash ./purge-all.sh",
     "watch": "grafana-toolkit plugin:dev --watch"
   },
   "version": "3.5.0"
